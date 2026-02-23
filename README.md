@@ -82,12 +82,6 @@ The objective of this project was to transform raw retail transaction data into 
 
 ---
 
-## 📷 Dashboard Preview
-
-> *(You can insert a screenshot of your dashboard here)*  
-> Example:  
-> `![Dashboard Screenshot](dashboard.png)`
-
 ---
 
 
