@@ -81,7 +81,9 @@ The objective of this project was to transform raw retail transaction data into 
 - Implement advanced DAX measures (YoY Growth, Contribution %)  
 
 ---
+## 📷 Dashboard Preview
 
+![Retail Intelligence Dashboard](dashboard.png)
 ---
 
 
