@@ -1,4 +1,4 @@
-# Retail Intelligence Dashboard – Revenue, Trends & Customer Insights
+# Retail Intelligence Dashboard:– Revenue, Trends & Customer Insights
 
 ## Overview
 
